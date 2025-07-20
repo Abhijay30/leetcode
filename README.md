@@ -3,7 +3,7 @@
 This repo contains my accepted Java solutions for LeetCode problems.
 
 ### ✅ Progress
-- Easy: 232
+- Easy: 32
 - Medium: 14
 - Hard: 2
 
