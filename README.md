@@ -3,8 +3,8 @@
 This repo contains my accepted Java solutions for LeetCode problems.
 
 ### ✅ Progress
-- Easy: 32
-- Medium: 14
+- Easy: 46
+- Medium: 20
 - Hard: 2
 
 ### 📁 Structure
